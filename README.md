@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://i.ibb.co/njpLWh3/javascript.gif" align="left" height="" width="500" />  
+<img src="https://i.ibb.co/njpLWh3/javascript.gif" align="left" height="" width="100%" />  
   
 
 <div align="center">
