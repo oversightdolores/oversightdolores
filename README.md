@@ -1,5 +1,11 @@
 <img src="https://i.ibb.co/njpLWh3/javascript.gif" align="left" height="" width="100%" />
 
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 
 ### <div align="center">¡Hola! Mi nombre es Nicolás y soy un desarrollador full stack con experiencia en tecnologías como HTML, CSS, JavaScript, React, React Native, Redux, Postgres, Express y C#. Mi pasión es el desarrollo front-end, donde puedo crear experiencias de usuario atractivas y funcionales. Actualmente vivo en Dolores, Buenos Aires, y tengo un hijo de 6 años. Me encanta aprender nuevas tecnologías y estoy constantemente buscando desafíos y oportunidades para mejorar mis habilidades. Me gustaría combinar mis conocimientos y experiencia en desarrollo full stack con mi enfoque en el lado del front-end para proporcionar soluciones innovadoras y de alta calidad a mis clientes.
@@ -73,10 +79,10 @@ Si estás interesado en saber más sobre mi experiencia, puedes contactarme por 
   <a href="https://github.com/oversightdolores" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://linkedin.com/in/nicolas-lo-giudice-54a4a0229" target="_blank">
+  <a href="https://linkedin.com/in/nicolas-lo-giudice" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://instagram.com/overcode04" target="_blank">
+  <a href="https://instagram.com/overcoding04" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
   </a>
 </div>
