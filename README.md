@@ -10,7 +10,7 @@
 
 ### <div align="center">¡Hola! Mi nombre es Nicolás y soy un desarrollador full stack con experiencia en tecnologías como HTML, CSS, JavaScript, React, React Native, Redux, Postgres, Express y C#. Mi pasión es el desarrollo front-end, donde puedo crear experiencias de usuario atractivas y funcionales. Actualmente vivo en Dolores, Buenos Aires, y tengo un hijo de 6 años. Me encanta aprender nuevas tecnologías y estoy constantemente buscando desafíos y oportunidades para mejorar mis habilidades. Me gustaría combinar mis conocimientos y experiencia en desarrollo full stack con mi enfoque en el lado del front-end para proporcionar soluciones innovadoras y de alta calidad a mis clientes.
 
-Si estás interesado en saber más sobre mi experiencia, puedes contactarme por correo electrónico a overcode04@gmail.com.</div>
+Si estás interesado en saber más sobre mi experiencia, puedes contactarme por correo electrónico a logiudicenicolas04@gmail.com.</div>
 
 <br/>
 
